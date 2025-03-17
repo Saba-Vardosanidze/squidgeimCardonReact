@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  width: 800px;
+  padding-top: 32px;
+  margin-left: 276px;
+}
+ul {
+  display: flex;
+  gap: 27px;
+  margin-right: 145px;
+  color: white;
+}
+ul li {
+  width: 45px;
+  display: flex;
+  justify-content: start;
+}
+.about {
+  color: #ff0000;
+}
